@@ -1,0 +1,46 @@
+{
+  "ai_records": 132048,
+  "checks": [
+    "12 source families",
+    "96 balanced family/origin cells",
+    "unique record IDs",
+    "one human plus seven distinct generators per pair",
+    "source group consistency",
+    "text and prompt SHA-256",
+    "word counts",
+    "human null fields",
+    "Parquet schemas and JSONL equivalence",
+    "statistics agreement",
+    "public schema and file inventory",
+    "documentation and content scan"
+  ],
+  "generators": [
+    "deepseek-r1:14b",
+    "gemini-3.7-flash",
+    "gemma4:12b",
+    "gpt-5.6-luna",
+    "llama3.1:8b",
+    "ministral-3:14b",
+    "qwen3:14b"
+  ],
+  "human_records": 18864,
+  "schema_version": "2.0",
+  "source_families": [
+    "BBC",
+    "CMUBookSummary",
+    "CMV",
+    "CNN_Dailymail",
+    "GPABenchmark_written",
+    "IMDb",
+    "KaggleCompetition",
+    "NarrativeQA",
+    "Newsroom",
+    "PoemsDataset",
+    "SQuAD",
+    "Yelp"
+  ],
+  "source_groups": 18864,
+  "source_pairs": 18864,
+  "status": "passed",
+  "total_records": 150912
+}

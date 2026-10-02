@@ -1,0 +1,13 @@
+source_dataset,source_reference
+BBC,http://mlg.ucd.ie/datasets/bbc.html
+CMUBookSummary,https://www.cs.cmu.edu/~dbamman/booksummaries.html
+CMV,https://convokit.cornell.edu/documentation/winning.html
+CNN_Dailymail,https://huggingface.co/datasets/abisee/cnn_dailymail
+GPABenchmark_written,https://zenodo.org/records/11215222
+IMDb,https://ieee-dataport.org/open-access/imdb-movie-reviews-dataset
+KaggleCompetition,https://github.com/scrosseye/persuade_corpus_2.0
+NarrativeQA,https://github.com/google-deepmind/narrativeqa
+Newsroom,https://summari.es/
+PoemsDataset,https://www.kaggle.com/datasets/michaelarman/poemsdataset
+SQuAD,https://rajpurkar.github.io/SQuAD-explorer/
+Yelp,https://www.yelp.com/dataset

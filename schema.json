@@ -1,0 +1,18 @@
+{
+  "domain": "string",
+  "generator_model": "string",
+  "id": "string",
+  "label": "string",
+  "pair_id": "string",
+  "prompt": "string",
+  "prompt_sha256": "string",
+  "provider": "string",
+  "source_dataset": "string",
+  "source_group_id": "string",
+  "source_subset": "string",
+  "subdomain": "string",
+  "target_word_count": "int64",
+  "text": "string",
+  "text_sha256": "string",
+  "word_count": "int64"
+}
